@@ -1,21 +1,21 @@
 Ch. 2
-1. What must you do to minimize interaction cost?
+1. What must you do to minimize interaction cost? Pg.41
 A. Transfer as little data as possible.
 B. Keeep the refresh rate for transfer as high as possible.
 C. Schedule big updates at peak times
 D. All of the above
 
-2. The Android design philosophy demands that applications be designed for performance. True or False?
+2. The Android design philosophy demands that applications be designed for performance. True or False? Pg. 43
 
-3. When does the Broadcast Receiver must return from its onReceive hanlder?
+3. When does the Broadcast Receiver must return from its onReceive hanlder? Pg. 44
 A. 8 seconds
 B. 9 seconds
 C. 10 seconds
 D. 11 seconds
 
-4. The Android Virtual Device Manager does not support for audio recording. True or False?
+4. The Android Virtual Device Manager does not support for audio recording. True or False? Pg. 49
 
-5. When mobile devices are compare to desktop computers, mobile devices have?
+5. When mobile devices are compare to desktop computers, mobile devices have? Pg. 38
 A. High processing power
 B. Limited battery life
 C. High RAM
@@ -23,23 +23,23 @@ D. Reliable data connections
 
 Ch. 3
 
-1. What do you use to define the current application version?
+1. What do you use to define the current application version? Pg. 55
 A. versionName
 B. installLocation
 C. pereferExteranl
 D. versionCode
 
-2. If your application is installed on external storage, it will stay running when ejected from the computer. True or False?
+2. If your application is installed on external storage, it will stay running when ejected from the computer. True or False? Pg. 56
 
-3. What should resource filenames contain?
+3. What should resource filenames contain? Pg. 65
 A. Lowercase letters
 B. Numbers
 C. Underscore
 D. All of the Above
 
-4. px stands for screen pixels. True or False?
+4. px stands for screen pixels. True or False? Pg. 67
 
-5. Android only supports four types of animation. True or False?
+5. Android only supports four types of animation. True or False? Pg. 70
 
 
 
